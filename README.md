@@ -1,12 +1,12 @@
 # Nested-Dictionaries-Lists
 
-Assignment: Nested Dictionaries & Lists
 Welcome to another Core assignment! Some students like to explore the assignments before they're finished reading through the lessons, and that's okay! It can be good for your brain to have a preview of what your future challenges might be. However, before you begin this assignment, it's important that you've first:
 
 Completed the preceding lesson modules
 Taken the knowledge checks to confirm your understanding
 Viewed lecture material related to the assignment topics
 Completed and submitted your practice assignments
+
 Now, the Assignment:
 Note: Avoid using class keywords like int, str, list, and dict as variable/parameter names.
 
@@ -83,7 +83,7 @@ Josh
 Graham
 Patrick
 Minh
-Devon
+Devoncopy
 
 1. Update Values in Dictionaries and Lists
 
